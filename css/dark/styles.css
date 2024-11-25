@@ -1272,3 +1272,7 @@ a:hover.back-to-top {
     text-decoration: none;
     transition: all 0.2s;
 }
+
+form {
+    color: #ffffff;
+}
