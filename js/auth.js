@@ -28,3 +28,6 @@ async function sendData() {
     }
   }
   
+
+
+// jpmane klidne ten kod celej predelej ja vim ze asi nedava smysl
