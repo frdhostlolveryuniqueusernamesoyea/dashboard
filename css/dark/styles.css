@@ -1273,6 +1273,14 @@ a:hover.back-to-top {
     transition: all 0.2s;
 }
 
-form {
-    color: #ffffff;
+input#email {
+    color: #000000;
+}
+
+input#password {
+    color: #000000;
+}
+
+input#username {
+    color: #000000;
 }
