@@ -1,0 +1,9 @@
+{
+    "routes": [
+      { "handle": "filesystem" },
+      { "src": "/register", "status": 200, "dest": "/pages/register.html" },
+      { "src": "/auth", "status": 200, "dest": "/pages/auth.html" },
+      { "src": "/login", "status": 200, "dest": "/pages/login.html" },
+      { "src": "/(.*)", "status": 404, "dest": "/pages/404.html" }
+    ]
+  }
